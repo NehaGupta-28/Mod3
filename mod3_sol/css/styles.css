@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #eef5db;
+	font-family:serif,sans-serif;
+}
+h1{
+	color: #fe5f55;
+}
+#header-nav{
+	background-color: #b8d8d8;
+	height :auto;
+}
+.navbar-brand h1{
+	color: #fe5f55;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-bottom:0px;
+	margin-top:0px;
+	line-height: .75;
+	float:left;
+}
